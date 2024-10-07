@@ -30,8 +30,9 @@ O projeto utiliza um estilo escuro com o fundo preto (`--bg`) para destacar as i
    <br>
    <img src="https://raw.githubusercontent.com/EduardoDev98/COFFE-PAGE/6bda73368fda1ad7a7e3d4249d6f763f9d8aaf63/IMG/Captura%20de%20tela%202024-10-03%20172415.png "/>
    <br>
+    <img src="https://github.com/EduardoDev98/COFFE-PAGE/blob/main/IMG/Captura%20de%20tela%202024-10-03%20172431.png?raw=true  "/>
+    <br>
      <img src="https://raw.githubusercontent.com/EduardoDev98/COFFE-PAGE/6bda73368fda1ad7a7e3d4249d6f763f9d8aaf63/IMG/Captura%20de%20tela%202024-10-03%20172449.png"/>
      <br>
-       <img src=""/>
-       <br>
-         <img src=""/>
+    <img src=" https://github.com/EduardoDev98/COFFE-PAGE/blob/main/IMG/Captura%20de%20tela%202024-10-03%20172515.png?raw=true"/>
+    <br>
