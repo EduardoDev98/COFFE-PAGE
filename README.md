@@ -26,3 +26,12 @@ O projeto utiliza um estilo escuro com o fundo preto (`--bg`) para destacar as i
 3. **Flexbox e Grid**: Utilizados para alinhar os elementos e garantir um layout responsivo.
 4. **Links de navegação**: Facilitam a navegação entre as seções, com destaque em hover.
 5. **Imagens e Ícones**: Inseridos através de URLs ou do diretório local, com atributos `alt` para acessibilidade.
+   <br>
+   <br>
+   <img src="https://raw.githubusercontent.com/EduardoDev98/COFFE-PAGE/6bda73368fda1ad7a7e3d4249d6f763f9d8aaf63/IMG/Captura%20de%20tela%202024-10-03%20172415.png "/>
+   <br>
+     <img src="https://raw.githubusercontent.com/EduardoDev98/COFFE-PAGE/6bda73368fda1ad7a7e3d4249d6f763f9d8aaf63/IMG/Captura%20de%20tela%202024-10-03%20172449.png"/>
+     <br>
+       <img src=""/>
+       <br>
+         <img src=""/>
